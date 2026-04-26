@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/kafka-demo/__init__.py
+src/kafka-demo/common.py
+src/kafka.egg-info/PKG-INFO
+src/kafka.egg-info/SOURCES.txt
+src/kafka.egg-info/dependency_links.txt
+src/kafka.egg-info/requires.txt
+src/kafka.egg-info/top_level.txt

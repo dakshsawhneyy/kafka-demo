@@ -1,6 +1,6 @@
 import argparse
 
-from kafka_zero_to_hero.common import (
+from kafka_demo.common import (
     DEFAULT_BOOTSTRAP_SERVERS,
     ensure_topics,
     wait_for_broker,

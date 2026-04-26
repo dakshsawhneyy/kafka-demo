@@ -2,7 +2,7 @@ import argparse
 import time
 from datetime import datetime, timezone
 
-from kafka_zero_to_hero.common import DEFAULT_BOOTSTRAP_SERVERS, build_producer
+from kafka_demo.common import DEFAULT_BOOTSTRAP_SERVERS, build_producer
 
 
 STATUSES = [

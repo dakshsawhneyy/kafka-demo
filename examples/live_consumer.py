@@ -2,7 +2,7 @@ import argparse
 
 from kafka import KafkaConsumer
 
-from kafka_zero_to_hero.common import DEFAULT_BOOTSTRAP_SERVERS, json_deserializer, unique_group_id
+from kafka_demo.common import DEFAULT_BOOTSTRAP_SERVERS, json_deserializer, unique_group_id
 
 
 def parse_args() -> argparse.Namespace:
