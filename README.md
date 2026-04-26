@@ -1,4 +1,4 @@
-# Kafka Zero to Hero
+# Kafka
 
 Beginner-friendly Kafka tutorial content with runnable examples and Docker-based local setup.
 
