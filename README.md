@@ -204,7 +204,6 @@ You need monitoring, alerting, topic planning, retention settings, and capacity 
 For a very small application with simple request-response communication, Kafka may add unnecessary complexity.
 
 ## Repo Structure
-
 ```text
 .
 ├── README.md
